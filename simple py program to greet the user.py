@@ -4,4 +4,4 @@ def greet_user():
     print(f"hello,{name}!")
 
 #call the function
-greet_user
+greet_user()
